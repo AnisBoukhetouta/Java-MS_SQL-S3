@@ -1,1 +1,1 @@
-Demo for Microsoft SQL Server
+JAVA Demo for Microsoft SQL Server & S3
